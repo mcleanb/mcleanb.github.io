@@ -1,0 +1,222 @@
+
+Duplicate Tuesday Eve Session December 8, 2015
+Scores after 21 boards  Average:   31.5      Section  A
+Pair    Pct   Score  Rank   O/A
+  2   67.46   42.50   1     1   Ree Bailey - Verna Hickman
+  8   57.14   36.00   2     2   Andrea Leonardi - Bruce McLean
+  1   54.76   34.50   3     3   Stella Griffith - Elaine Lantz
+  7   48.41   30.50             Jane Sack - Bill Eller
+  5   46.83   29.50             Claire Binford - Ruth Ann Rogers
+  6   46.03   29.00             Becky Taylor - Jim Nichols
+  3   44.44   28.00             Mary Miller - Virginia Trapnell
+  4   34.92   22.00             Bill Hornish - Bill Young
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   1.00 4-Hornish-Young vs 2-Bailey-Hickman
+  140          1.00   2.00 6-Taylor-Nichols vs 5-Binford-Rogers
+  450          3.00   0.00 7-Sack-Eller vs 3-Miller-Trapnell
+        100    0.00   3.00 8-Leonardi-McLean vs 1-Griffith-Lantz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    0.50   2.50 4-Hornish-Young vs 2-Bailey-Hickman
+        450    2.00   1.00 6-Taylor-Nichols vs 5-Binford-Rogers
+        480    0.50   2.50 7-Sack-Eller vs 3-Miller-Trapnell
+        430    3.00   0.00 8-Leonardi-McLean vs 1-Griffith-Lantz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.00   3.00 4-Hornish-Young vs 2-Bailey-Hickman
+  200          1.00   2.00 6-Taylor-Nichols vs 5-Binford-Rogers
+  510          3.00   0.00 7-Sack-Eller vs 3-Miller-Trapnell
+  450          2.00   1.00 8-Leonardi-McLean vs 1-Griffith-Lantz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   2.00 1-Griffith-Lantz vs 4-Hornish-Young
+        400    0.00   3.00 5-Binford-Rogers vs 3-Miller-Trapnell
+        100    2.50   0.50 7-Sack-Eller vs 6-Taylor-Nichols
+        100    2.50   0.50 8-Leonardi-McLean vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    3.00   0.00 1-Griffith-Lantz vs 4-Hornish-Young
+        430    2.00   1.00 5-Binford-Rogers vs 3-Miller-Trapnell
+        460    0.50   2.50 7-Sack-Eller vs 6-Taylor-Nichols
+        460    0.50   2.50 8-Leonardi-McLean vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          3.00   0.00 1-Griffith-Lantz vs 4-Hornish-Young
+  150          0.00   3.00 5-Binford-Rogers vs 3-Miller-Trapnell
+  400          1.00   2.00 7-Sack-Eller vs 6-Taylor-Nichols
+  420          2.00   1.00 8-Leonardi-McLean vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   0.00 1-Griffith-Lantz vs 7-Sack-Eller
+        630    2.00   1.00 2-Bailey-Hickman vs 5-Binford-Rogers
+        650    0.50   2.50 6-Taylor-Nichols vs 4-Hornish-Young
+        650    0.50   2.50 8-Leonardi-McLean vs 3-Miller-Trapnell
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          2.50   0.50 1-Griffith-Lantz vs 7-Sack-Eller
+  430          2.50   0.50 2-Bailey-Hickman vs 5-Binford-Rogers
+         50    0.00   3.00 6-Taylor-Nichols vs 4-Hornish-Young
+  400          1.00   2.00 8-Leonardi-McLean vs 3-Miller-Trapnell
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.50   1.50 1-Griffith-Lantz vs 7-Sack-Eller
+  110          0.00   3.00 2-Bailey-Hickman vs 5-Binford-Rogers
+  140          1.50   1.50 6-Taylor-Nichols vs 4-Hornish-Young
+  420          3.00   0.00 8-Leonardi-McLean vs 3-Miller-Trapnell
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   0.00 2-Bailey-Hickman vs 1-Griffith-Lantz
+        140    1.00   2.00 3-Miller-Trapnell vs 6-Taylor-Nichols
+        790    0.00   3.00 7-Sack-Eller vs 5-Binford-Rogers
+        100    2.00   1.00 8-Leonardi-McLean vs 4-Hornish-Young
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.00   0.00 2-Bailey-Hickman vs 1-Griffith-Lantz
+  170          0.00   3.00 3-Miller-Trapnell vs 6-Taylor-Nichols
+  420          1.50   1.50 7-Sack-Eller vs 5-Binford-Rogers
+  420          1.50   1.50 8-Leonardi-McLean vs 4-Hornish-Young
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   1.50 2-Bailey-Hickman vs 1-Griffith-Lantz
+        450    0.00   3.00 3-Miller-Trapnell vs 6-Taylor-Nichols
+        420    1.50   1.50 7-Sack-Eller vs 5-Binford-Rogers
+        170    3.00   0.00 8-Leonardi-McLean vs 4-Hornish-Young
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   2.00 1-Griffith-Lantz vs 6-Taylor-Nichols
+        200    0.00   3.00 3-Miller-Trapnell vs 2-Bailey-Hickman
+  620          2.50   0.50 4-Hornish-Young vs 7-Sack-Eller
+  620          2.50   0.50 8-Leonardi-McLean vs 5-Binford-Rogers
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  590          3.00   0.00 1-Griffith-Lantz vs 6-Taylor-Nichols
+   50          1.00   2.00 3-Miller-Trapnell vs 2-Bailey-Hickman
+        420    0.00   3.00 4-Hornish-Young vs 7-Sack-Eller
+  450          2.00   1.00 8-Leonardi-McLean vs 5-Binford-Rogers
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   1.00 1-Griffith-Lantz vs 6-Taylor-Nichols
+        450    0.00   3.00 3-Miller-Trapnell vs 2-Bailey-Hickman
+        420    1.00   2.00 4-Hornish-Young vs 7-Sack-Eller
+  100          3.00   0.00 8-Leonardi-McLean vs 5-Binford-Rogers
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   0.00 2-Bailey-Hickman vs 7-Sack-Eller
+        100    2.00   1.00 4-Hornish-Young vs 3-Miller-Trapnell
+        600    0.00   3.00 5-Binford-Rogers vs 1-Griffith-Lantz
+        150    1.00   2.00 8-Leonardi-McLean vs 6-Taylor-Nichols
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  510          0.50   2.50 2-Bailey-Hickman vs 7-Sack-Eller
+  510          0.50   2.50 4-Hornish-Young vs 3-Miller-Trapnell
+  980          2.00   1.00 5-Binford-Rogers vs 1-Griffith-Lantz
+ 1010          3.00   0.00 8-Leonardi-McLean vs 6-Taylor-Nichols
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.00   0.00 2-Bailey-Hickman vs 7-Sack-Eller
+        100    0.00   3.00 4-Hornish-Young vs 3-Miller-Trapnell
+  600          1.50   1.50 5-Binford-Rogers vs 1-Griffith-Lantz
+  600          1.50   1.50 8-Leonardi-McLean vs 6-Taylor-Nichols
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          2.00   1.00 3-Miller-Trapnell vs 1-Griffith-Lantz
+  480          3.00   0.00 5-Binford-Rogers vs 4-Hornish-Young
+  420          1.00   2.00 6-Taylor-Nichols vs 2-Bailey-Hickman
+         50    0.00   3.00 8-Leonardi-McLean vs 7-Sack-Eller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   0.00 3-Miller-Trapnell vs 1-Griffith-Lantz
+        200    1.00   2.00 5-Binford-Rogers vs 4-Hornish-Young
+  100          2.00   1.00 6-Taylor-Nichols vs 2-Bailey-Hickman
+        500    0.00   3.00 8-Leonardi-McLean vs 7-Sack-Eller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.50   2.50 3-Miller-Trapnell vs 1-Griffith-Lantz
+  100          3.00   0.00 5-Binford-Rogers vs 4-Hornish-Young
+        150    0.50   2.50 6-Taylor-Nichols vs 2-Bailey-Hickman
+   50          2.00   1.00 8-Leonardi-McLean vs 7-Sack-Eller
+----------------------------------------------------------------------

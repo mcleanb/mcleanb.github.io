@@ -1,0 +1,190 @@
+
+Duplicate Tuesday Eve Session April 19, 2016
+Scores after 20 boards  Average:   20.0      Section  A
+Pair    Pct   Score  Rank   O/A
+  3   61.25   24.50   1     1   Paula Smith - Becky Taylor
+  5   60.00   24.00   2     2   Bill Young - Alice Budack
+  1   47.50   19.00             Bill Eller - Mary Miller
+  2   47.50   19.00             Ree Bailey - Verna Hickman
+  4   42.50   17.00             Jim Nichols - Sue Smith
+  6   41.25   16.50             Bruce McLean - Claire Binford
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        570    0.00   2.00 4-Nichols-Smith vs 2-Bailey-Hickman
+  420          2.00   0.00 5-Young-Budack vs 3-Smith-Taylor
+  300          1.00   1.00 6-McLean-Binford vs 1-Eller-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   1.00 4-Nichols-Smith vs 2-Bailey-Hickman
+        200    1.00   1.00 5-Young-Budack vs 3-Smith-Taylor
+        200    1.00   1.00 6-McLean-Binford vs 1-Eller-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.00   0.00 4-Nichols-Smith vs 2-Bailey-Hickman
+        100    0.50   1.50 5-Young-Budack vs 3-Smith-Taylor
+        100    0.50   1.50 6-McLean-Binford vs 1-Eller-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   0.00 4-Nichols-Smith vs 2-Bailey-Hickman
+        120    1.00   1.00 5-Young-Budack vs 3-Smith-Taylor
+       1400    0.00   2.00 6-McLean-Binford vs 1-Eller-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          0.00   2.00 1-Eller-Miller vs 5-Young-Budack
+  130          1.00   1.00 4-Nichols-Smith vs 3-Smith-Taylor
+  150          2.00   0.00 6-McLean-Binford vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        790    0.00   2.00 1-Eller-Miller vs 5-Young-Budack
+        620    2.00   0.00 4-Nichols-Smith vs 3-Smith-Taylor
+        650    1.00   1.00 6-McLean-Binford vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   0.00 1-Eller-Miller vs 5-Young-Budack
+        620    0.00   2.00 4-Nichols-Smith vs 3-Smith-Taylor
+        140    1.00   1.00 6-McLean-Binford vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          1.50   0.50 1-Eller-Miller vs 5-Young-Budack
+  420          0.00   2.00 4-Nichols-Smith vs 3-Smith-Taylor
+  480          1.50   0.50 6-McLean-Binford vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.00   0.00 2-Bailey-Hickman vs 1-Eller-Miller
+  100          1.00   1.00 5-Young-Budack vs 4-Nichols-Smith
+        630    0.00   2.00 6-McLean-Binford vs 3-Smith-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   1.00 2-Bailey-Hickman vs 1-Eller-Miller
+  620          2.00   0.00 5-Young-Budack vs 4-Nichols-Smith
+        200    0.00   2.00 6-McLean-Binford vs 3-Smith-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  250          2.00   0.00 2-Bailey-Hickman vs 1-Eller-Miller
+  140          1.00   1.00 5-Young-Budack vs 4-Nichols-Smith
+  100          0.00   2.00 6-McLean-Binford vs 3-Smith-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  210          2.00   0.00 2-Bailey-Hickman vs 1-Eller-Miller
+  140          1.00   1.00 5-Young-Budack vs 4-Nichols-Smith
+  110          0.00   2.00 6-McLean-Binford vs 3-Smith-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   2.00 2-Bailey-Hickman vs 5-Young-Budack
+  140          1.00   1.00 3-Smith-Taylor vs 1-Eller-Miller
+  600          2.00   0.00 6-McLean-Binford vs 4-Nichols-Smith
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   2.00 2-Bailey-Hickman vs 5-Young-Budack
+   50          1.00   1.00 3-Smith-Taylor vs 1-Eller-Miller
+  480          2.00   0.00 6-McLean-Binford vs 4-Nichols-Smith
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.50   0.50 2-Bailey-Hickman vs 5-Young-Budack
+        100    0.00   2.00 3-Smith-Taylor vs 1-Eller-Miller
+  620          1.50   0.50 6-McLean-Binford vs 4-Nichols-Smith
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.50   0.50 2-Bailey-Hickman vs 5-Young-Budack
+  200          1.50   0.50 3-Smith-Taylor vs 1-Eller-Miller
+        100    0.00   2.00 6-McLean-Binford vs 4-Nichols-Smith
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  AVE   AVE    1.00   1.00 1-Eller-Miller vs 4-Nichols-Smith
+  AVE   AVE    1.00   1.00 3-Smith-Taylor vs 2-Bailey-Hickman
+  AVE   AVE    1.00   1.00 6-McLean-Binford vs 5-Young-Budack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          2.00   0.00 1-Eller-Miller vs 4-Nichols-Smith
+        100    0.00   2.00 3-Smith-Taylor vs 2-Bailey-Hickman
+  210          1.00   1.00 6-McLean-Binford vs 5-Young-Budack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.50   0.50 1-Eller-Miller vs 4-Nichols-Smith
+  420          1.50   0.50 3-Smith-Taylor vs 2-Bailey-Hickman
+  140          0.00   2.00 6-McLean-Binford vs 5-Young-Budack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   80          0.00   2.00 1-Eller-Miller vs 4-Nichols-Smith
+  600          2.00   0.00 3-Smith-Taylor vs 2-Bailey-Hickman
+  110          1.00   1.00 6-McLean-Binford vs 5-Young-Budack
+----------------------------------------------------------------------

@@ -1,0 +1,193 @@
+
+Duplicate Tuesday Eve Session September 15, 2015
+Scores after 18 boards  Average:   24.0      Section  A
+Pair    Pct   Score  Rank   O/A
+  2   70.83   34.00   1     1   Ree Bailey - Verna Hickman
+  6   63.54   30.50   2     2   Chuck Johnson - Jean Johnson
+  8   61.46   29.50   3     3   Sue Smith - Alice Budack
+  5   60.42   29.00   4     4   Bill Eller - Andrea Leonardi
+  1   53.13   25.50             Jean James - Mary Miller
+  9   37.50   18.00             Bruce McLean - Alison McLean
+  3   35.42   17.00             Dick Mellett - Marty Mellett
+  7   34.38   16.50             Jim Nichols - Bill Hornish
+  4   33.33   16.00             Claire Binford - Julie Miller
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  230          2.00   1.00 4-Binford-Miller vs 1-James-Miller
+  400          3.00   0.00 6-Johnson-Johnson vs 5-Eller-Leonardi
+  190          1.00   2.00 7-Nichols-Hornish vs 3-Mellett-Mellett
+  180          0.00   3.00 9-McLean-McLean vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.00   2.00 4-Binford-Miller vs 1-James-Miller
+  150          1.00   2.00 6-Johnson-Johnson vs 5-Eller-Leonardi
+  600          3.00   0.00 7-Nichols-Hornish vs 3-Mellett-Mellett
+  150          1.00   2.00 9-McLean-McLean vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   80          2.00   1.00 1-James-Miller vs 3-Mellett-Mellett
+        140    1.00   2.00 5-Eller-Leonardi vs 2-Bailey-Hickman
+        170    0.00   3.00 7-Nichols-Hornish vs 6-Johnson-Johnson
+  110          3.00   0.00 8-Smith-Budack vs 4-Binford-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   0.50 1-James-Miller vs 3-Mellett-Mellett
+        300    0.50   2.50 5-Eller-Leonardi vs 2-Bailey-Hickman
+        300    0.50   2.50 7-Nichols-Hornish vs 6-Johnson-Johnson
+        100    2.50   0.50 8-Smith-Budack vs 4-Binford-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.50   0.50 2-Bailey-Hickman vs 4-Binford-Miller
+        100    1.00   2.00 6-Johnson-Johnson vs 3-Mellett-Mellett
+  110          2.50   0.50 8-Smith-Budack vs 7-Nichols-Hornish
+        150    0.00   3.00 9-McLean-McLean vs 5-Eller-Leonardi
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          0.00   3.00 2-Bailey-Hickman vs 4-Binford-Miller
+  190          2.50   0.50 6-Johnson-Johnson vs 3-Mellett-Mellett
+  190          2.50   0.50 8-Smith-Budack vs 7-Nichols-Hornish
+  170          1.00   2.00 9-McLean-McLean vs 5-Eller-Leonardi
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          2.00   1.00 1-James-Miller vs 6-Johnson-Johnson
+  150          1.00   2.00 3-Mellett-Mellett vs 5-Eller-Leonardi
+  130          0.00   3.00 7-Nichols-Hornish vs 4-Binford-Miller
+  660          3.00   0.00 9-McLean-McLean vs 8-Smith-Budack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.50   0.50 1-James-Miller vs 6-Johnson-Johnson
+  150          0.50   2.50 3-Mellett-Mellett vs 5-Eller-Leonardi
+  200          2.50   0.50 7-Nichols-Hornish vs 4-Binford-Miller
+  150          0.50   2.50 9-McLean-McLean vs 8-Smith-Budack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.50   1.50 1-James-Miller vs 9-McLean-McLean
+  140          1.50   1.50 2-Bailey-Hickman vs 7-Nichols-Hornish
+         50    0.00   3.00 4-Binford-Miller vs 6-Johnson-Johnson
+  500          3.00   0.00 8-Smith-Budack vs 5-Eller-Leonardi
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   2.00 1-James-Miller vs 9-McLean-McLean
+  600          3.00   0.00 2-Bailey-Hickman vs 7-Nichols-Hornish
+        200    0.00   3.00 4-Binford-Miller vs 6-Johnson-Johnson
+  130          2.00   1.00 8-Smith-Budack vs 5-Eller-Leonardi
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   2.00 2-Bailey-Hickman vs 1-James-Miller
+        100    0.00   3.00 3-Mellett-Mellett vs 8-Smith-Budack
+  430          3.00   0.00 5-Eller-Leonardi vs 7-Nichols-Hornish
+  420          2.00   1.00 9-McLean-McLean vs 6-Johnson-Johnson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   1.00 2-Bailey-Hickman vs 1-James-Miller
+        130    1.00   2.00 3-Mellett-Mellett vs 8-Smith-Budack
+  100          3.00   0.00 5-Eller-Leonardi vs 7-Nichols-Hornish
+        300    0.00   3.00 9-McLean-McLean vs 6-Johnson-Johnson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  720          2.00   1.00 1-James-Miller vs 7-Nichols-Hornish
+        100    0.00   3.00 3-Mellett-Mellett vs 2-Bailey-Hickman
+  210          1.00   2.00 4-Binford-Miller vs 9-McLean-McLean
+ 1460          3.00   0.00 6-Johnson-Johnson vs 8-Smith-Budack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.00   2.00 1-James-Miller vs 7-Nichols-Hornish
+  140          0.00   3.00 3-Mellett-Mellett vs 2-Bailey-Hickman
+  450          2.00   1.00 4-Binford-Miller vs 9-McLean-McLean
+  480          3.00   0.00 6-Johnson-Johnson vs 8-Smith-Budack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.50   1.50 2-Bailey-Hickman vs 8-Smith-Budack
+  650          1.50   1.50 4-Binford-Miller vs 3-Mellett-Mellett
+  650          1.50   1.50 5-Eller-Leonardi vs 1-James-Miller
+  650          1.50   1.50 7-Nichols-Hornish vs 9-McLean-McLean
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.00   2.00 2-Bailey-Hickman vs 8-Smith-Budack
+        110    0.00   3.00 4-Binford-Miller vs 3-Mellett-Mellett
+  200          2.50   0.50 5-Eller-Leonardi vs 1-James-Miller
+  200          2.50   0.50 7-Nichols-Hornish vs 9-McLean-McLean
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   1.00 3-Mellett-Mellett vs 9-McLean-McLean
+  110          2.00   1.00 5-Eller-Leonardi vs 4-Binford-Miller
+        110    0.00   3.00 6-Johnson-Johnson vs 2-Bailey-Hickman
+  110          2.00   1.00 8-Smith-Budack vs 1-James-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.00   1.00 3-Mellett-Mellett vs 9-McLean-McLean
+  100          3.00   0.00 5-Eller-Leonardi vs 4-Binford-Miller
+        460    0.00   3.00 6-Johnson-Johnson vs 2-Bailey-Hickman
+        450    1.00   2.00 8-Smith-Budack vs 1-James-Miller
+----------------------------------------------------------------------

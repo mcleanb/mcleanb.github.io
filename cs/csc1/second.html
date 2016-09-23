@@ -1,0 +1,78 @@
+
+<!DOCTYPE HTML PUBLIC >
+<html>
+
+<head>
+
+<meta name="Author" content="Dr. Bruce McLean">
+<meta name="Description" content="Computer Science 1">
+<meta name="void functions"
+content="program data software hardware problem solving">
+<title>second program void functions</title>
+</head>
+
+<body  bgcolor="#FCF5cf" text="#0000ff" link=aa00ff vlink=0000ff alink=00ff00>
+<font size=3>
+
+/*
+<BR>
+........ My_Name.c is the name of this file<br>
+<br>
+<br>
+....... This is our second <a href="program.html">program</a> and it is the homework<br>
+........problem that is due 4/8/97.  It was written <br>
+....... by Bruce McLean on 4/7/97 to demonstrate how<br>
+....... to use functions to get a message displayed as
+<a href="output.html">output</a>.<BR>
+<br>
+....... It begins with a 
+<a href="preprocessor.html">
+           compiler directive</a> that we will always use.
+<br><br>*/<br><BR>
+#include  &LT stdio.h &GT
+<BR><BR>
+// First the <a href="prototype.html">prototypes</a>.<br>
+<br>
+void Name(void);<br>
+void FiveSpaces(void);<br><br>
+//Every program will <BR>
+//start with the main function.<BR>
+<BR>main()<BR><BR>
+// This program displays 6 <BR>
+// messages to the screen.<BR><BR>
+//Every function that we write<BR>
+//must be documented. It must begin<BR>
+//with a { and end with a }.
+<PRE>
+      
+      {  /* 
+               If you started with FiveSpaces the first time
+                that is ok.  
+         */
+           Name();
+           FiveSpaces(); Name();
+           FiveSpaces(); FiveSpaces(); Name();
+           FiveSpaces(); FiveSpaces(); FiveSpaces(); Name();
+           FiveSpaces(); FiveSpaces(); FiveSpaces(); FiveSpaces(); Name();
+           FiveSpaces(); FiveSpaces(); FiveSpaces();FiveSpaces(); 
+           FiveSpaces(); Name();
+      }
+ //   Name prints my name and the cursor drops to the next line.   
+void Name(void)
+	{
+	printf("Bruce McLean\n");
+ 	}
+
+//FiveSpaces prints 5 spaces and does not drop the cursor
+void  FiveSpaces(void)
+	{
+	printf("     ");
+ 	}
+
+</PRE>
+
+</body>
+</html>
+
+
+

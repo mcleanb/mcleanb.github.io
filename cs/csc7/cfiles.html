@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC >
+<html>
+
+<head>
+
+<meta name="Author" content="Dr. Bruce McLean">
+<meta name="Description" content="Computer Science 1">
+<meta name="Keywords"
+content="program data software hardware problem solving">
+<title>CSC 281 Shiflet</title>
+</head>
+
+<body  bgcolor="#FCF5cf" text="#0000ff" link=aa00ff vlink=0000ff alink=00ff00>
+<font size=4>
+<img src="cfiles.jpeg">
+<BR>
+<pre>
+#include &LTstdlib.h&GT
+#include &LTstdio.h&GT
+void main(void)
+{  float price; 
+   FILE *outp_2,                *inp_4;
+ outp_2 = fopen("tax.dat", "w");inp_4 = fopen("price.dat", "r");
+// NULL means that there is no room for outp_2 
+// or inp_4 is not there or some other problem.
+    if (! ((inp_4 == NULL) || (outp_2 == NULL))       )
+    {  fscanf(inp_4, "%f", &price);
+       fprintf(outp_2, "%f", 0.06*price);
+       if (feof(inp_4) )   printf("OK\n");
+       fclose(outp_2);           fclose(inp_4);
+      }
+            else exit(1);
+}
+</pre> 
+</body>
+</html>

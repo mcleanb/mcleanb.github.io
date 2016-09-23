@@ -1,0 +1,149 @@
+
+<HTML>
+<HEAD>
+<TITLE>Industrial  Simulation for Teaching Statistics</TITLE>
+</HEAD>
+<BODY><CENTER><H2>
+Industrial  Simulation for Teaching Statistics
+<BR>by<BR>
+Bruce McLean<BR>
+Georgia Southern University<BR>
+Statesboro, GA 30460-8093<BR>
+bmclean@georgiasouthern.edu<p></center>
+
+
+Abstract </H2> <BR><FONT SIZE  = 4>This  is a DOS graphics screen simulation, 
+used to teach statistics to industrial practitioners, high school students, and 
+undergraduates.  White pulp is added to blue water that flows through 
+various size pipes.  Five different multi-colored chemicals are added to the 
+process to change the strength and tearing properties of the paper. The 
+student can design an experiment to maximize the first while minimizing 
+the second dependent variable.  Samples can be collected from nine different 
+locations in the process and displayed on the screen or written to a file.  At 
+the user's request, the system can be upset to simulate the clogging or 
+deterioration of one of the seven gaskets.   Data for x-bar and R control 
+charts can be collected at three different locations to assist in the 
+determination of  a problem caused by upsetting the system.   Pre-
+measurements along the way in the process can be used to teach 
+correlation.  The instructor can control the mean and the standard 
+deviation of each substance in the process.<p></FONT SIZE  = 4>
+
+<h2>Introduction</h2><BR><FONT SIZE  = 4> The program, called flo, was written  
+after a conversation with Robert A. McLean. of the University of Tennessee.  
+He stated that it would be nice to have a computer simulation where 
+students from industry could gather data for a designed experiment or for  
+developing control charts.  They could learn the lessons of producing a 
+quality product without interrupting production.  Once the techniques were 
+mastered, then they could move their data analysis skills to the floor where 
+they are needed.  Having just toured a local paper factory, this program was 
+developed and is being used in   service courses at the undergraduate level 
+as well as classes in experimental design.<p> </font size = 4>
+
+<H2>Changing concentrations</H2>  <FONT SIZE  = 4>The program begins with light blue water 
+flowing through dark blue pipes entering from the upper left corner of the 
+DOS graphics screen.  Pulp is entered at the first corner by selecting the 
+pipe color 1 or 5.   The selection collar is positioned  by touching the 
+digit one.  The percentage of white desired can then be entered.  To enter a 
+setting of ten percent,  simply touch E followed by the digits one and zero.  
+The user can then select  a subset of the remaining colors and add the 
+desired percentages of those colors.  Decide on the digit of the pipe color to 
+change, touch that digit, and then touch E followed by two digits.  Additional 
+water can be added at two of the locations, eight and nine.  Increasing the 
+amount of pure water at pipe color eight reduces the percentage of pulp 
+emitting from pipe color five and the percentage of the pink chemical from 
+six.  Similarly, increasing the water at nine decreases the percentages from 
+one and two.  The six colors from the seven locations together with the 
+additional water blend into a mixture in the lower right corner.  Here the 
+solution is dried on large rollers and paper is manufactured.  Only  the 
+water,  pulp, and chemicals are displayed in this simulation. <p>
+</FONT SIZE  = 4><H2>
+
+Sampling independent variables</H2><FONT SIZE  = 4>  To sample the mixture, select one of  the 
+nine locations by holding the shift key down and then touching a digit.   The numbering for sampling is the  same as for changing the mean of the concentrations except eight and nine 
+have been moved to more convenient sampling  locations.  By touching the 
+letter S, a ten by ten sample is displayed in the center of the screen and the 
+100 pixels are counted for the user.  Then touching the letter H, will display 
+a histogram of all of the  pixels in the entire pipe in the upper left corner.  H 
+and S are toggles, so touching H H or S S again will produce different 
+results based upon the mean and standard deviation of each pipe color.<p>
+</FONT SIZE  = 4><H2>
+Sampling dependent variables</H2><FONT SIZE  = 4>  When requested, two dependent variables 
+are displayed at sampling pipe locations four, eight, and nine.  Just touch 
+the letter  V.  One might try to maximize the top number and minimize the 
+bottom one.  The letter V is a toggle and will erase and then display  the 
+variables using the new sample.  The user can program  a cubic equation or 
+an exponential for these two dependent variables.  The predicted values at 
+sampling locations eight and nine can be used to study correlations with 
+the dependent variables at pipe four.<p>
+
+</FONT SIZE  = 4><H2>Control charts</H2><FONT SIZE  = 4>  Data for control charts can be collected at sampling 
+locations eight, nine, or four.  Simply touch the letter C and you will be asked 
+to give the location, the number of samples each time, the time between 
+samples, and the total number of times to sample.    You will be kept informed on the screen which charting  sample is being collected.  The program will notify you when all of the 
+charting data has been collected.  The data is written to the ASCII file 
+CHARTn.DAT.  This file can then be imported into most statistical 
+programs to produce the requested charts.  Pixel counts at locations one 
+through nine can be collected by touching P and informing the program 
+where, when, and how many samples of one hundred pixels you want 
+collected.  The results are written to the ASCII  file PIXELn.DAT.  A file 
+called ACTIONn.DAT is also created to record all of the important key 
+strokes.  The data for this file is collected  until all of the samples have been 
+saved.   Again you will be kept informed as to which sample is being 
+collected and when the required number of samples is finished. <p>
+</FONT SIZE  = 4><H2>Experimental  design.</H2> <FONT SIZE  = 4>A designed experiment  can be 
+conducted by first touching D and answering the usual questions.  In order 
+to  design an experiment with twenty-four cells, one will have to touch D 
+twenty-four more times  to complete the experiment.  The program will 
+keep the user informed on how many cells have been collected .  The values 
+of the independent and dependent variables will end up in the ASCII file 
+DESIGNn.DAT for analysis.   By optionally touching V, each of the 24 
+readings of the dependent variables will also be displayed on the 
+screen.<P></FONT SIZE  = 4>
+<H2>Upsets</H2><FONT SIZE  = 4>  Upsets  to the system can be predetermined by the 
+user in an ASCII file, SIGMAS.DAT.  A particular color gasket can be 
+chosen to leak or clog, causing x-bar or R control charts to go out of control 
+or interfering with a designed experiment.   The default is for orange, pipe 
+color two, to cycle between two predetermined values over a specified period 
+of  time.   The number of times the orange mean has changed, is displayed 
+on the screen.  Upsets  to the system can be predetermined by the 
+user in an ASCII file, SIGMAS.DAT.  To fix the system from the upset, touch F and answer the 
+questions.   Each of the preceding topics are independent of each other and 
+can all be run simultaneously.   Touching T, followed by a key stroke of 
+your choice, begins the tutorial.  If the tutorial is left on while setting up a 
+chart, pixel count, or designed experiment, there will be an example 
+problem displayed to assist the user.  Terminate the tutorial by touching T  
+again.  The pressure in the pipes can be regulated by  touching R for retard 
+followed by a digit.  R 9 is very slow and R 0 is the default.  The clock does not 
+change its speed when the system is retarded.  Independently the clock can 
+be speeded up by not having to draw all of the graphics.  This permits a lot of 
+data to be collected for a control chart, pixel collection, or a designed 
+experiment in a very small amount of real time.  I 9 is as fast as the 
+simulation can move and I 0 is the default.   ASCII files can be read or 
+written without interrupting the simulation by touching O and W 
+respectively.  A lot of  ninety-five percent confidence intervals  for mu can 
+also be collected for teaching that subject.<p></FONT SIZE  = 4>
+
+<H2>The program</H2><FONT SIZE  = 4>  This is a Turbo Pascal Ò V7.0 program that 
+uses the  Pascal file EGAVGA. GBI file for displaying the ever changing 
+pixel flow.  The random number generator provided by Borland Inc. is used 
+in conjunction with the Box - Mueller  algorithm for turning two 
+independent uniform distributions into a normal distribution.   The 
+standard deviations of the independent variable  can be initialized by the 
+SIGMAS.DAT file or changed later by using  F for fixing the system.  The 
+default standard deviation is 1.5.  If the SIGMAS.DAT file is not available, 
+the program will still run with an exponential equation for the top 
+dependent and a quadratic for the lower variable.<p></FONT SIZE  = 4>
+
+<H2>Appreciation</H2><FONT SIZE  = 4> Thanks go to Robert A. McLean for his 
+reviews and all of his detailed suggestions for improvement in the writing 
+of this program.</FONT SIZE  = 4>
+
+Ò Turbo  Pascal is a registered trademark of Borland International 
+Corporation, Scotts Valley, CA.<P>
+
+Bibliography
+<P>
+1. Statistical Computing, by William J. Kennedy, Jr. and James E. Gentle, 
+Marcel Dekker, Inc.  New York and Basel (1980) p202.
+<BR><BR><font size=2>E-mail address changed 1/03/2005.
+</body></HTML>

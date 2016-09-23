@@ -1,0 +1,222 @@
+
+Dup[icate Tuesday Eve Session May 19, 2015
+Scores after 21 boards  Average:   31.5      Section  A
+Pair    Pct   Score  Rank   O/A
+  4   69.05   43.50   1     1   Mihai Tohaneu - Bruce McLean
+  2   61.11   38.50   2     2   Ree Bailey - Verna Hickman
+  3   50.00   31.50   3     3   Mary Miller - Jean James
+  1   47.62   30.00             Andrea Leonardi - Julie Miller
+  7   46.83   29.50             Bill Eller - Claire Binford
+  8   42.86   27.00             Jane Sack - Mike Bowen
+  5   41.27   26.00             Bill Young - Jim Nichols
+  6   41.27   26.00             Stella Griffith - Elaine Lantz
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    3.00   0.00 4-Tohaneu-McLean vs 2-Bailey-Hickman
+        150    0.50   2.50 6-Griffith-Lantz vs 5-Young-Nichols
+        140    2.00   1.00 7-Eller-Binford vs 3-Miller-James
+        150    0.50   2.50 8-Sack-Bowen vs 1-Leonardi-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   3.00 4-Tohaneu-McLean vs 2-Bailey-Hickman
+  100          1.00   2.00 6-Griffith-Lantz vs 5-Young-Nichols
+  140          3.00   0.00 7-Eller-Binford vs 3-Miller-James
+  130          2.00   1.00 8-Sack-Bowen vs 1-Leonardi-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.00   0.00 4-Tohaneu-McLean vs 2-Bailey-Hickman
+        150    0.00   3.00 6-Griffith-Lantz vs 5-Young-Nichols
+  110          1.00   2.00 7-Eller-Binford vs 3-Miller-James
+  140          2.00   1.00 8-Sack-Bowen vs 1-Leonardi-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          3.00   0.00 1-Leonardi-Miller vs 4-Tohaneu-McLean
+  200          2.00   1.00 5-Young-Nichols vs 3-Miller-James
+        100    0.00   3.00 7-Eller-Binford vs 6-Griffith-Lantz
+   90          1.00   2.00 8-Sack-Bowen vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    0.50   2.50 1-Leonardi-Miller vs 4-Tohaneu-McLean
+        450    2.00   1.00 5-Young-Nichols vs 3-Miller-James
+        420    3.00   0.00 7-Eller-Binford vs 6-Griffith-Lantz
+        480    0.50   2.50 8-Sack-Bowen vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    0.00   3.00 1-Leonardi-Miller vs 4-Tohaneu-McLean
+        130    1.00   2.00 5-Young-Nichols vs 3-Miller-James
+        120    2.00   1.00 7-Eller-Binford vs 6-Griffith-Lantz
+  200          3.00   0.00 8-Sack-Bowen vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          2.00   1.00 1-Leonardi-Miller vs 7-Eller-Binford
+  620          3.00   0.00 2-Bailey-Hickman vs 5-Young-Nichols
+  170          0.00   3.00 6-Griffith-Lantz vs 4-Tohaneu-McLean
+  300          1.00   2.00 8-Sack-Bowen vs 3-Miller-James
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          2.00   1.00 1-Leonardi-Miller vs 7-Eller-Binford
+  460          3.00   0.00 2-Bailey-Hickman vs 5-Young-Nichols
+  200          1.00   2.00 6-Griffith-Lantz vs 4-Tohaneu-McLean
+  140          0.00   3.00 8-Sack-Bowen vs 3-Miller-James
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   1.50 1-Leonardi-Miller vs 7-Eller-Binford
+  400          3.00   0.00 2-Bailey-Hickman vs 5-Young-Nichols
+         50    1.50   1.50 6-Griffith-Lantz vs 4-Tohaneu-McLean
+        100    0.00   3.00 8-Sack-Bowen vs 3-Miller-James
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.50   1.50 2-Bailey-Hickman vs 1-Leonardi-Miller
+  100          0.00   3.00 3-Miller-James vs 6-Griffith-Lantz
+  800          3.00   0.00 7-Eller-Binford vs 5-Young-Nichols
+  200          1.50   1.50 8-Sack-Bowen vs 4-Tohaneu-McLean
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          3.00   0.00 2-Bailey-Hickman vs 1-Leonardi-Miller
+  430          2.00   1.00 3-Miller-James vs 6-Griffith-Lantz
+  300          1.00   2.00 7-Eller-Binford vs 5-Young-Nichols
+  150          0.00   3.00 8-Sack-Bowen vs 4-Tohaneu-McLean
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   1.50 2-Bailey-Hickman vs 1-Leonardi-Miller
+        140    1.50   1.50 3-Miller-James vs 6-Griffith-Lantz
+        140    1.50   1.50 7-Eller-Binford vs 5-Young-Nichols
+        140    1.50   1.50 8-Sack-Bowen vs 4-Tohaneu-McLean
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.00   1.00 1-Leonardi-Miller vs 6-Griffith-Lantz
+        500    0.00   3.00 3-Miller-James vs 2-Bailey-Hickman
+  620          3.00   0.00 4-Tohaneu-McLean vs 7-Eller-Binford
+        100    1.00   2.00 8-Sack-Bowen vs 5-Young-Nichols
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    0.50   2.50 1-Leonardi-Miller vs 6-Griffith-Lantz
+        400    2.50   0.50 3-Miller-James vs 2-Bailey-Hickman
+        430    0.50   2.50 4-Tohaneu-McLean vs 7-Eller-Binford
+        400    2.50   0.50 8-Sack-Bowen vs 5-Young-Nichols
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   0.00 1-Leonardi-Miller vs 6-Griffith-Lantz
+        130    1.00   2.00 3-Miller-James vs 2-Bailey-Hickman
+         90    2.00   1.00 4-Tohaneu-McLean vs 7-Eller-Binford
+        600    0.00   3.00 8-Sack-Bowen vs 5-Young-Nichols
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          2.50   0.50 2-Bailey-Hickman vs 7-Eller-Binford
+        140    1.00   2.00 4-Tohaneu-McLean vs 3-Miller-James
+  300          2.50   0.50 5-Young-Nichols vs 1-Leonardi-Miller
+        150    0.00   3.00 8-Sack-Bowen vs 6-Griffith-Lantz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  920          2.50   0.50 2-Bailey-Hickman vs 7-Eller-Binford
+  920          2.50   0.50 4-Tohaneu-McLean vs 3-Miller-James
+  170          0.00   3.00 5-Young-Nichols vs 1-Leonardi-Miller
+  420          1.00   2.00 8-Sack-Bowen vs 6-Griffith-Lantz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    0.00   3.00 2-Bailey-Hickman vs 7-Eller-Binford
+   50          2.50   0.50 4-Tohaneu-McLean vs 3-Miller-James
+        150    1.00   2.00 5-Young-Nichols vs 1-Leonardi-Miller
+   50          2.50   0.50 8-Sack-Bowen vs 6-Griffith-Lantz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.00   1.00 3-Miller-James vs 1-Leonardi-Miller
+        630    0.00   3.00 5-Young-Nichols vs 4-Tohaneu-McLean
+        600    1.00   2.00 6-Griffith-Lantz vs 2-Bailey-Hickman
+        120    3.00   0.00 8-Sack-Bowen vs 7-Eller-Binford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          2.00   1.00 3-Miller-James vs 1-Leonardi-Miller
+  200          1.00   2.00 5-Young-Nichols vs 4-Tohaneu-McLean
+        300    0.00   3.00 6-Griffith-Lantz vs 2-Bailey-Hickman
+ 1100          3.00   0.00 8-Sack-Bowen vs 7-Eller-Binford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.50   0.50 3-Miller-James vs 1-Leonardi-Miller
+        200    0.00   3.00 5-Young-Nichols vs 4-Tohaneu-McLean
+  140          2.50   0.50 6-Griffith-Lantz vs 2-Bailey-Hickman
+    PASS       1.00   2.00 8-Sack-Bowen vs 7-Eller-Binford
+----------------------------------------------------------------------

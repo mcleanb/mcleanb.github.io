@@ -1,0 +1,193 @@
+
+Duplicate Tuesday Eve Session November 17, 2015
+Scores after 18 boards  Average:   24.0      Section  A
+Pair    Pct   Score  Rank   O/A
+  3   61.46   29.50   1     1   Jane Sack - Bill Eller
+  2   60.42   29.00  2/3   2/3  Ree Bailey - Verna Hickman
+  5   60.42   29.00  2/3   2/3  Dick Mellett - Marty Mellett
+  6   59.38   28.50   4     4   Chuck Johnson - Jean Johnson
+  9   47.92   23.00             Andrea Leonardi - Bruce McLean
+  4   46.88   22.50             Kathern Olliff - Mary Miller
+  8   44.79   21.50             Sue Smith - Bill Young
+  7   39.58   19.00             Ruth Ann Rogers - Claire Binford
+  1   29.17   14.00             Elaine Lantz - Stella Griffith
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.50   1.50 4-Olliff-Miller vs 1-Lantz-Griffith
+        130    1.50   1.50 6-Johnson-Johnson vs 5-Mellett-Mellett
+   50          3.00   0.00 7-Rogers-Binford vs 3-Sack-Eller
+        150    0.00   3.00 9-Leonardi-McLean vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          1.50   1.50 4-Olliff-Miller vs 1-Lantz-Griffith
+  660          0.00   3.00 6-Johnson-Johnson vs 5-Mellett-Mellett
+  690          1.50   1.50 7-Rogers-Binford vs 3-Sack-Eller
+ 1440          3.00   0.00 9-Leonardi-McLean vs 2-Bailey-Hickman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.50   2.50 1-Lantz-Griffith vs 3-Sack-Eller
+  100          3.00   0.00 5-Mellett-Mellett vs 2-Bailey-Hickman
+        100    2.00   1.00 7-Rogers-Binford vs 6-Johnson-Johnson
+        300    0.50   2.50 8-Smith-Young vs 4-Olliff-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        720    0.00   3.00 1-Lantz-Griffith vs 3-Sack-Eller
+        710    1.50   1.50 5-Mellett-Mellett vs 2-Bailey-Hickman
+        710    1.50   1.50 7-Rogers-Binford vs 6-Johnson-Johnson
+        650    3.00   0.00 8-Smith-Young vs 4-Olliff-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   3.00 2-Bailey-Hickman vs 4-Olliff-Miller
+  120          2.00   1.00 6-Johnson-Johnson vs 3-Sack-Eller
+  140          3.00   0.00 8-Smith-Young vs 7-Rogers-Binford
+   90          1.00   2.00 9-Leonardi-McLean vs 5-Mellett-Mellett
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          3.00   0.00 2-Bailey-Hickman vs 4-Olliff-Miller
+  150          2.00   1.00 6-Johnson-Johnson vs 3-Sack-Eller
+         50    0.50   2.50 8-Smith-Young vs 7-Rogers-Binford
+         50    0.50   2.50 9-Leonardi-McLean vs 5-Mellett-Mellett
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.00   3.00 1-Lantz-Griffith vs 6-Johnson-Johnson
+  200          3.00   0.00 3-Sack-Eller vs 5-Mellett-Mellett
+        620    1.00   2.00 7-Rogers-Binford vs 4-Olliff-Miller
+        200    2.00   1.00 9-Leonardi-McLean vs 8-Smith-Young
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    1.50   1.50 1-Lantz-Griffith vs 6-Johnson-Johnson
+        400    1.50   1.50 3-Sack-Eller vs 5-Mellett-Mellett
+        450    0.00   3.00 7-Rogers-Binford vs 4-Olliff-Miller
+        140    3.00   0.00 9-Leonardi-McLean vs 8-Smith-Young
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    0.00   3.00 1-Lantz-Griffith vs 9-Leonardi-McLean
+  200          3.00   0.00 2-Bailey-Hickman vs 7-Rogers-Binford
+  110          1.50   1.50 4-Olliff-Miller vs 6-Johnson-Johnson
+  110          1.50   1.50 8-Smith-Young vs 5-Mellett-Mellett
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   1.00 1-Lantz-Griffith vs 9-Leonardi-McLean
+        100    3.00   0.00 2-Bailey-Hickman vs 7-Rogers-Binford
+        300    0.50   2.50 4-Olliff-Miller vs 6-Johnson-Johnson
+        300    0.50   2.50 8-Smith-Young vs 5-Mellett-Mellett
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   0.50 2-Bailey-Hickman vs 1-Lantz-Griffith
+        130    1.00   2.00 3-Sack-Eller vs 8-Smith-Young
+        110    2.50   0.50 5-Mellett-Mellett vs 7-Rogers-Binford
+        150    0.00   3.00 9-Leonardi-McLean vs 6-Johnson-Johnson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   1.50 2-Bailey-Hickman vs 1-Lantz-Griffith
+        420    1.50   1.50 3-Sack-Eller vs 8-Smith-Young
+        170    3.00   0.00 5-Mellett-Mellett vs 7-Rogers-Binford
+        450    0.00   3.00 9-Leonardi-McLean vs 6-Johnson-Johnson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   3.00 1-Lantz-Griffith vs 7-Rogers-Binford
+  120          2.00   1.00 3-Sack-Eller vs 2-Bailey-Hickman
+  120          2.00   1.00 4-Olliff-Miller vs 9-Leonardi-McLean
+  120          2.00   1.00 6-Johnson-Johnson vs 8-Smith-Young
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   1.00 1-Lantz-Griffith vs 7-Rogers-Binford
+        100    2.00   1.00 3-Sack-Eller vs 2-Bailey-Hickman
+        150    0.00   3.00 4-Olliff-Miller vs 9-Leonardi-McLean
+        100    2.00   1.00 6-Johnson-Johnson vs 8-Smith-Young
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   0.00 2-Bailey-Hickman vs 8-Smith-Young
+        420    0.00   3.00 4-Olliff-Miller vs 3-Sack-Eller
+  100          1.00   2.00 5-Mellett-Mellett vs 1-Lantz-Griffith
+  150          2.00   1.00 7-Rogers-Binford vs 9-Leonardi-McLean
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.50   0.50 2-Bailey-Hickman vs 8-Smith-Young
+        100    0.00   3.00 4-Olliff-Miller vs 3-Sack-Eller
+  110          2.50   0.50 5-Mellett-Mellett vs 1-Lantz-Griffith
+         50    1.00   2.00 7-Rogers-Binford vs 9-Leonardi-McLean
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          2.50   0.50 3-Sack-Eller vs 9-Leonardi-McLean
+  130          1.00   2.00 5-Mellett-Mellett vs 4-Olliff-Miller
+         50    0.00   3.00 6-Johnson-Johnson vs 2-Bailey-Hickman
+  400          2.50   0.50 8-Smith-Young vs 1-Lantz-Griffith
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00   2.00 3-Sack-Eller vs 9-Leonardi-McLean
+        140    0.00   3.00 5-Mellett-Mellett vs 4-Olliff-Miller
+  100          2.00   1.00 6-Johnson-Johnson vs 2-Bailey-Hickman
+  110          3.00   0.00 8-Smith-Young vs 1-Lantz-Griffith
+----------------------------------------------------------------------

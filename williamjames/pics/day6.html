@@ -1,0 +1,67 @@
+<TITLE>Labs</title>
+
+<body bgcolor=f7f7ff text = 0000ff>
+
+<font size=5>Today we are going to write our second java applet.  
+
+This time we are going to write it on the Sun.
+<p>,img src="pics/draw.GIF">
+<p><menu><li>[[Telnet]]  <li>[phonebook] <li>[gsu] 
+
+<li>[connect] <li>login as usual <li>cd public_html 
+
+{Enter <-|}<li>cd yourname {Enter <-|} <li>pico Welcome.html
+
+ {Enter <-|} <li>Type in the program below. <li>{Ctrl} X {Enter 
+
+<-|} <li>y <li>javac Welcome.java {Enter <-|} <li>java Welcome
+
+ {Enter <-|} <li>cp ../example.html . <li>appletviewer example.html </menu><p><ol>import java.awt.Graphics;<br>import
+
+ java.awt.Color;<br>import java.applet.Applet;<br>
+
+<br>public class Welcome extends Applet<br>
+
+{<br> &nbsp; &nbsp; &nbsp; public void paint (Graphics g)<br>
+
+ &nbsp; &nbsp; &nbsp; {<br> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
+
+ &nbsp;g.drawString("Welcome to", 25, 25 );<br> &nbsp; &nbsp; &nbsp;
+
+  &nbsp; &nbsp; &nbsp;g.drawString
+
+("Java Programming!!!", 50, 50 );<br> &nbsp; &nbsp; &nbsp;  &nbsp;
+
+ &nbsp;
+
+ &nbsp;g.drawString("My name is yourname", 75, 75 );<br> &nbsp; &nbsp; &nbsp;
+
+  &nbsp; &nbsp; &nbsp;g.setColor(Color.yellow );<br> &nbsp; 
+
+&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;g.fillOval(30, 30, 150, 150 );
+
+<br> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;g.setColor(Color.blue);
+
+<br> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;g.drawOval
+
+(50, 50, 35, 35 );<br> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; 
+
+&nbsp;g.setColor(Color.red );<br> &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;
+
+ &nbsp;g.drawLine(105,80, 130,100);<br> &nbsp; &nbsp; &nbsp;  &nbsp;
+
+ &nbsp; &nbsp;g.drawLine(105,80, 85,100);<br> &nbsp; &nbsp; &nbsp; 
+
+ &nbsp; &nbsp; &nbsp;g.setColor(Color.magenta);<br> &nbsp; &nbsp; 
+
+&nbsp;  &nbsp; &nbsp; &nbsp;g.drawArc(50, 100, 150, 50, 210, 100);<br>
+
+ &nbsp; &nbsp; &nbsp; }<br>}<br>
+
+<HR><BR><menu>Add the following <li>Get the welcome message from under
+
+ drawing<li>Place a white eyeball in the center of the right eye
+
+ <li>Add a left eye <li>Move the mouth so that it is inside the
+
+ drawing <li>Place it on your web page. </menu><BR>
