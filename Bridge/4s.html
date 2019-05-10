@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>Jack html export</title>
+  <meta name="Description" content="Jack printout">
+  <style media="screen" type="text/css">
+    .TABLE_grid {  font-size: 6pt; border-top : 0; border-bottom : 0; border-left : 0; border-right : 0;}
+    .TABLE_grid1x2 { font-size: 10pt; height : 100%;}
+  </style>
+  <style media="print" type="text/css">
+    p.hpg { page-break-before: always }
+    .TABLE_grid { font-size: 6pt; border-top : 0; border-bottom : 0; border-left : 0; border-right : 1; width : 100%; }
+    .TABLE_grid1x2 { font-size: 10pt; height : 15.5cm; width : 100%; }
+  </style>
+  <style media="all" type="text/css">
+    BODY { background-color: #FEEAB2; font-family: Arial; }
+    .TABLE_grid TH { border-top : 0; border-left : 0; border-right : 0; font-weight: normal; }
+    .TABLE_grid .cell { vertical-align : top; text-align : center; height : 220; width : 200; }
+    .TABLE_grid TD.biedcell { vertical-align : top; text-align : center; height : 100%; }
+    .TABLE_grid TD.playcell { vertical-align : top; text-align : center; height : 100%; }
+    .TABLE_grid TD.comments { font-size: 8pt; }
+    .TABLE_grid .foot { border-bottom : 0; border-left : 0; border-right : 0; }
+    .TABLE_compass { font-size: 8pt; text-align : center; vertical-align : middle; }
+    .TABLE_vul { font-size: 8pt; }
+    .TABLE_freq { text-align : center;}
+    .TABLE_freq TH { font-size: 6pt; font-weight: normal; }
+    .TABLE_freq TD { font-size: 8pt; border-bottom : 0;}
+    .TABLE_deal { font-size: 10pt; width : 100%; }
+    .TABLE_deal TD { white-space : nowrap;}
+    .TABLE_hand { font-size: 16pt; }
+    .TABLE_hand TD { white-space : nowrap;}
+    .TABLE_bied { text-align : center; font-size: 10pt; width : 200; height : 100%;}
+    .TABLE_bied TD { white-space : nowrap; }
+    .TABLE_bied TH { white-space : nowrap; }
+    .TABLE_bied TH.head1 { font-size: 10pt; font-weight: normal; width : 25%; }
+    .TABLE_bied TH.head2 { font-size: 6pt; font-style : italic; font-weight: normal; }
+    .TABLE_bied TD.footnotes { font-size: 6pt; text-align : left; white-space : normal; }
+    .TABLE_play {  text-align : center; font-size: 10pt; width : 140; height : 100%;}
+    .TABLE_play TH { font-size: 10pt; font-weight: normal; width : 25%; }
+    .TABLE_play TD.selected { border : 1px dotted blue; }
+    .TABLE_grid1x2 H1 { font-size: 24pt; font-weight: bold; color: blue; text-align : center; vertical-align : middle;}
+    .TABLE_grid1x2 H2 { font-size: 12pt; font-weight: bold; color: red;}
+    .TABLE_grid1x2 .convcell { vertical-align : top; text-align : left; width : 50%; border-bottom : 0; }
+    .TABLE_grid1x2 .foot { border-top : 0; font-size: 8pt; font-style : italic; }
+    .TABLE_grid1x2 .note { font-size: 8pt; line-height : 200%;}
+    .fillin { border-bottom : 1px dotted black; }
+    .vul { color : red; font-weight: bold; }
+    .notvul { color : black; font-weight: bold; }
+    .TABLE_lead TD.b { font-weight: bold; }
+    .TABLE_lead TD.u { border-bottom : 1px solid black; }
+    .TABLE_lead TD.bu { font-weight: bold; border-bottom : 1px solid black; }
+    .TABLE_signal TH { font-size: 10pt; text-align : left; border : 0; font-weight: normal; }
+    .TABLE_signal TH.top { text-align : center; }
+    .TABLE_signal TD { font-size: 10pt; text-align : center; border-top : 1px solid red; }
+    .TABLE_signal TD.left { border-left : 1px solid red;} 
+    .TABLE_signal TD.right { border-right : 1px solid red; }
+    .TABLE_signal TD.lbottom { border-bottom : 1px solid red; border-left : 1px solid red; }
+    .TABLE_signal TD.rbottom { border-bottom : 1px solid red; border-right : 1px solid red; }
+    .TH_b { border-bottom : 0; }
+    .TH_t { border-top : 0; }
+    .TH_tr { border-top : 0; border-right : 0; }
+    .TH_tl { border-top : 0; border-left : 0; }
+    span.mb {font: normal 15px monospace; color: black;}
+    span.mr {font: normal 15px monospace; color: red;}
+  </style>
+</head>
+ 
+<body>
+<table style="BORDER: 1px solid gray" class="TABLE_grid" cellspacing="1" cellpadding="2">
+  <tbody><tr>
+    <td class="cell">
+<!-- ***********************
+* BEGIN deal-block table
+************************ -->
+<table class="TABLE_deal" cellpadding="4">
+  <!-- row 1 of deal-block: deal/vul, N-hand, empty -->
+  <tbody><tr>
+    <!-- row 1 of deal-block: internal column 1 (deal/vul) -->
+    <td class="TABLE_vul" valign="top">
+Board 5
+<br>N/NS
+    </td>
+    <!-- row 1 of deal-block: internal columns 2 and 3 (N-hand, empty)-->
+    <td colspan="2">
+      <span class="mb">♠</span> J7
+      <br><span class="mr">♥</span> QT9654
+      <br><span class="mr">♦</span> J43
+      <br><span class="mb">♣</span> 74
+    </td>
+  </tr>
+
+  <!-- row 2 of deal-block: W-hand, compass, E-hand -->
+  <tr>
+    <!-- row 2 of dealblock: internal column 1 (W-hand) -->
+    <td width="40%">
+      <span class="mb">♠</span> KQ54
+      <br><span class="mr">♥</span> K8
+      <br><span class="mr">♦</span> A97652
+      <br><span class="mb">♣</span> 3
+    </td>
+    <!-- row 2 of deal-block: internal column 2 (compass) -->
+    <td width="20%">
+      <table cellspacing="0" bordercolor="black" border="1"><tbody><tr><td><table class="TABLE_compass">
+        <tbody><tr><td></td><td class="vul">N</td><td></td></tr>
+        <tr><td class="notvul">W</td><td></td><td class="notvul">E</td></tr>
+        <tr><td></td><td class="vul">S</td><td></td></tr>
+      </tbody></table></td></tr></tbody></table>
+    </td>
+    <!-- row 2 of deal-block: internal column 3 (E-hand) -->
+    <td width="40%">
+      <span class="mb">♠</span> AT983
+      <br><span class="mr">♥</span> J
+      <br><span class="mr">♦</span> QT
+      <br><span class="mb">♣</span> Q9852
+    </td>
+  </tr>
+
+  <!-- row 3 of deal-block: empty, S-hand, empty -->
+  <tr>
+    <!-- row 3 of deal-block: internal column 1 (empty) -->
+    <td width="40%">&nbsp;
+    </td>
+    <!-- row 3 of deal-block: internal columns 2 and 3 (S-hand, empty) -->
+    <td colspan="2">
+      <span class="mb">♠</span> 62
+      <br><span class="mr">♥</span> A732
+      <br><span class="mr">♦</span> K8
+      <br><span class="mb">♣</span> AKJT6
+    </td>
+
+  </tr>
+</tbody></table>
+<!-- ***********************
+* END deal-block table
+************************ -->
+    </td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table>
+
+
+</body></html>
