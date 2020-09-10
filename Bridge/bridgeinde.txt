@@ -33,7 +33,7 @@ He is in charge for Tuesday night.<BR>
 Important documents for each Tuesday night.
 <table  cellpadding="2" cellspacing="2">
   <tbody>
-<TR><td><a href="09082020 BBO Bridge.pdf">Last Week's Tables</a></td>
+<TR><td><a href="09012020 BBO Bridge.pdf">Last Week's Tables</a></td>
 <td><a href="StartingaTable.pdf">Starting a BBO table</a></td>
 <td><a href="TuesdayDuplicateRoll.pdf">Statesboro Roster</a></td>
 </tr>
@@ -97,9 +97,7 @@ If you like bridge, you'll love duplicate. Come join us.<P>
 <HR>
 <!--  Column 1
 -->
-<P>
 
-September 1 BBO 8 pairs, 4 Tables (7 rounds of 3 hands)<BR>
 <table  cellpadding="6" cellspacing="6">
   <tbody>
 
@@ -121,7 +119,7 @@ Eleanor and Emma</td><td> 		55</td><td> 	20</td><td> 	2.8</td></tr>
 </tbody>
 </table>
 
-<hr>
+<P>
 
 <P>
 August 26 BBO 8 pairs, 4 Tables (7 rounds of 3 hands)<BR>
@@ -193,7 +191,7 @@ Rank Name</td><td>	Total</td><td>	Boards</td><td>	Imp's/Bd</td></tr>
 </tbody>
 </table>
 
-<!--
+
 <hr>
 
 July 28 BBO 8 pairs, 4 Tables (4 rounds of 6 hands)<BR>
@@ -207,7 +205,7 @@ Rank Name</td><td>	Total</td><td>	Boards</td><td>	Imp's/Bd</td></tr>
 <TR><td>4 Li and Jean</td><td>	33.7</td><td>	18</td><td>	1.88</td></tr>
 </tbody>
 </table>
-
+<!--
 
 <hr>
 
@@ -444,23 +442,23 @@ Pair    Pct   Score  Rank<BR>
 <TD>
 <P>
 
-September 9 BBO 7 pairs, 4 Tables (6 rounds of 3 hands)<BR>
+September 1 BBO 8 pairs, 4 Tables (7 rounds of 3 hands)<BR>
 <table  cellpadding="6" cellspacing="6">
   <tbody>
 
 <tr>
 <td>
-Name</td><td>	         Total	</td></tr>
+Name</td><td>	         Total	</td><td>     Boards</td><td>	IMPs/Bd</td></tr>
 
 <tr>
 <td>
-Eleanor and Emma</td><td> 	48.2</td></tr>
+Eleanor and Emma</td><td> 		55</td><td> 	20</td><td> 	2.8</td></tr>
 <tr>
-<td>Bill and Mary 	</td><td> 	40.2</td></tr>
+<td>Andrea and Bruce</td><td> 		53.8</td><td> 	21</td><td> 	2.6</td></tr>
 <tr>
-<td>Chuck and Jean	</td><td> 	36.0</td></tr>
+<td>Chuck and Jean	</td><td> 	36.3</td><td> 	21</td><td> 	1.7</td></tr>
 <tr>
-<td>Verna and Phylis	</td><td> 	31.7</td></tr>
+<td>Verna and Phylis	</td><td> 	29.5</td><td> 	20</td><td> 	1.5</td></tr>
 
 </tbody>
 </table>
@@ -472,6 +470,9 @@ Eleanor and Emma</td><td> 	48.2</td></tr>
 </tr>
 </tbody>
 </table>
+
+
+
 
  
 
