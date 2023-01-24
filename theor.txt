@@ -1,0 +1,8 @@
+@article{Iacob2018AboutGO,
+  title={About General Order Regular Flexagons},
+  author={Ionut Emil Iacob and T. Bruce McLean and Hua Wang},
+  journal={Ars Comb.},
+  year={2018},
+  volume={139},
+  pages={159-173}
+}
